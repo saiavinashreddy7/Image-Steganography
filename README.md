@@ -24,6 +24,7 @@ This project demonstrates how digital images can be used as carriers for confide
 
 ## 🚀 How to Run
 
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/saiavinashreddy7/Image-Steganography.git
